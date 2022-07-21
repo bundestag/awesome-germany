@@ -2,6 +2,10 @@
 
 Introduction about [awesome lists](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
+## Open source
+
+- [Official portal for public administration in Germany](https://opencode.de/)
+
 ## Open data
 
 - [Official open data portal for Germany](https://www.govdata.de/)
