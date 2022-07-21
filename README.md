@@ -1,6 +1,8 @@
 # Awesome Germany
 
-Introduction about [awesome lists](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This list is about [fiscal financed public projects](https://publiccode.eu/) or ones which are [relevant for citizens](https://en.wikipedia.org/wiki/Civic_technology).
 
 ## Open source
 
