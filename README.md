@@ -15,7 +15,9 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 ## Mobile apps
 
+- [AusweisApp2 (eID-Client)](https://github.com/Governikus/AusweisApp2)
 - [Corona-Warn-App](https://github.com/corona-warn-app)
+  - [Inofficial fork without proprietary Google libraries](https://codeberg.org/corona-contact-tracing-germany/cwa-android)
 
 ## Libraries
 
@@ -27,6 +29,10 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 - [it@M](https://github.com/it-at-m)
 - [WollMux](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
+
+### Karlsruhe
+
+- [Karlsruhe on Github](https://github.com/stadt-karlsruhe)
 
 
 ---
@@ -41,6 +47,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [Code for Germany](https://codefor.de/projekte/): Civic projects helping digitalization in Germany
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
 - [Data Guide](https://github.com/datenguide/datenguide): Guide and tools explaining how to use official German statistics sites
+- [FOSS Warn](https://github.com/nucleus-ffm/foss_warn): App with official warnings
 
 # Other governments
 
