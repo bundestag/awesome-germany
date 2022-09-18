@@ -43,6 +43,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [meine-stadt-transparent](https://github.com/meine-stadt-transparent/meine-stadt-transparent/): A website to bring municipal politics to citizens
 - [Consul](https://github.com/consul/consul): Open government and e-participation web software
 - [Mark-a-Spot](https://github.com/markaspot/mark-a-spot): Crowdmapping, Coproduction and participation (e.g. report a problem)
+- [Masterportal](https://www.masterportal.org/home.html): City map with custom layers
 - [Democracy](https://github.com/demokratie-live/): App where citizens can vote on topics discussed in the German parliament ("Bundestag")
 - [Code for Germany](https://codefor.de/projekte/): Civic projects helping digitalization in Germany
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
