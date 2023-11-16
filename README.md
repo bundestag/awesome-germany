@@ -34,8 +34,10 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 ### Munich
 
-- [it@M](https://github.com/it-at-m)
-- [WollMux](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
+- [opensource.muenchen.de](https://opensource.muenchen.de/): Overview over open source activities of the city of Munich
+- [LHM (OpenCoDE)](https://gitlab.opencode.de/landeshauptstadt-muenchen)
+- [it@M (GitHub)](https://github.com/it-at-m)
+- [WollMux (GitHub)](https://github.com/WollMux): LibreOffice plugin with enhanced template, form, and autotext functionality
 
 ### Karlsruhe
 
