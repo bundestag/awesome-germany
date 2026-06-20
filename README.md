@@ -61,6 +61,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 
 - [OParl](https://github.com/OParl/): Open standard for machine-readable access to municipal council information systems
 - [meine-stadt-transparent](https://github.com/meine-stadt-transparent/meine-stadt-transparent/): A website to bring municipal politics to citizens
+- [InfraNode](https://infranode.dev/): Free, keyless REST API and MCP server for open data of 84 German cities (weather, DWD warnings, air quality, public transit, traffic, water levels, energy/SMARD, statistics), Apache-2.0
 - [Consul](https://github.com/consul/consul): Open government and e-participation web software
 - [ckan](https://ckan.org/): Open Data portal management system
 - [piveau](https://www.piveau.de/): Open Data portal management system
