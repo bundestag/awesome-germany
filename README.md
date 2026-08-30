@@ -75,6 +75,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [`publiccode.yml`](https://yml.publiccode.tools/): Metadata standard for software repositories of Public Administration
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
 - [Data Guide](https://github.com/datenguide/datenguide): Guide and tools explaining how to use official German statistics sites
+- [Klarbelegt](https://klarbelegt.de/): Official federal and municipal statistics as readable charts for 171 cities and all 16 states, every figure carrying its source and Datenstand, with per-indicator CSV downloads
 - [FOSS Warn](https://github.com/nucleus-ffm/foss_warn): App with official warnings
 - [Freifunk](https://freifunk.net/): Open communication networks
 
