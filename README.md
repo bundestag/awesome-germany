@@ -44,6 +44,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 ## Libraries
 
 - [eID-Login](https://github.com/eid-login): Plugins to implement login with the german passport ("Personalausweis")
+- [urlaubsanspruch-burlg](https://github.com/J-WildGarden/urlaubsanspruch-burlg): Statutory vacation entitlement under the Federal Leave Act ("Bundesurlaubsgesetz"): part time, mid-year start or exit, twelfths rule. JavaScript and Python, MIT
 
 ## APIs
 
