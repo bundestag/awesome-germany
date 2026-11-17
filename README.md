@@ -71,6 +71,7 @@ This list is about [fiscal financed public projects](https://publiccode.eu/) or 
 - [GeoServer](https://geoserver.org/): Server for sharing geospatial data
 - [OpenStretMap](https://www.openstreetmap.org/about): Open maps
 - [Democracy](https://github.com/demokratie-live/): App where citizens can vote on topics discussed in the German parliament ("Bundestag")
+- [Bundestag: Wie hättest du gestimmt?](https://moeller-bonn.com/app/democracy/): Web app that explains new Bundestag bills in plain German and lets citizens vote on roll-call votes before comparing their choice with the parliamentary groups, built on DIP and abgeordnetenwatch.de open data
 - [Code for Germany](https://codefor.de/projekte/): Civic projects helping digitalization in Germany
 - [`publiccode.yml`](https://yml.publiccode.tools/): Metadata standard for software repositories of Public Administration
 - [German Laws](https://github.com/bundestag/gesetze): German laws converted to Markdown format and tracked in a Git repository
